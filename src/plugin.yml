@@ -1,0 +1,7 @@
+name: Fastbridge
+main: de.sytm.fb.FastBridge
+version: 1.0
+author: Sytm
+
+commands:
+ fastbridge:
